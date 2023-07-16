@@ -4,7 +4,7 @@ This is a simple web app that allows you to generate QR codes for any text or UR
 
 ## DEMO
 
-![QR Code Generator](/assets/Screenshot%202023-07-16%20223644.png)
+![QR Code Generator](./assets/Screenshot%202023-07-16%20223644.png)
 
 ## How to use
 
