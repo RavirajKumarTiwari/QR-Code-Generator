@@ -13,4 +13,5 @@ This is a simple web app that allows you to generate QR codes for any text or UR
 - Click on the Generate button to see the QR code
 
 ## Author
+
 [Raviraj Kumar](linkedin.com/in/raviraj-kumar-019956225)
